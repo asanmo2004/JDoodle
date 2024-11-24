@@ -25,7 +25,8 @@ You may also see any lint errors in the console.
   ## backend
  paste the index.js node code and modify the api key client id and secret key of yours and run the backend scripts using node index.js
 
- 
+ ![Screenshot 2024-11-24 133934](https://github.com/user-attachments/assets/3db88393-3735-4f7d-913f-06eaed2b45db)
+
 
 
 
